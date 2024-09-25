@@ -4,7 +4,7 @@
 
 import { useEffect, useState } from 'react';
 import './App.css'
-import { ThemeProvider } from './context/theme'
+import { ThemeProvider } from './context/Theme'
 import ThemeBtn from './components/button/ThemeBtn';
 import Card from './components/card/Card';
 
